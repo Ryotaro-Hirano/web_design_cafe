@@ -1,0 +1,137 @@
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+cafeサイトマークアップ用原稿
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+■タイトル
+HOLLYWOOD CAFE
+
+■ロゴ画像挿入
+logo.jpg　		alt：HOLLYWOOD CAFE
+
+■テキスト挿入（リード分、サブナビ）
+
+クリエイターが集まり、作品が生まれる。創造カフェ。
+
+サイトマップ
+
+RSS
+
+■テキスト挿入（グローバルナビ）
+
+HOME
+
+MENU
+
+EVENT
+
+BLOG
+
+ABOUT
+
+ACCESS
+
+■メイングラフィック画像挿入
+maingra.jpg		alt：空
+
+
+■welcome見出し画像・イメージ画像挿入
+ttl_welcome.gif		alt：WELCOME TO HOLLYWOOD CAFE
+
+img_cafe.jpg		alt：空
+
+
+■テキスト挿入
+
+ハリウッドカフェは、グラフィックやWebデザインをはじめ、色々なジャンルで活躍するクリエイターが交流する創造空間カフェです。
+
+仕事をお探しの方、仕事を依頼したい方、仕事仲間を探している方、ハリウッドカフェで新たな出会いを探してみませんか。
+
+
+
+■reccomend見出し画像
+title_reccomend.jpg	alt：RECOMMEND MENU
+
+
+■reccomend商品画像・テキスト
+
+ハリウッドバーガー
+
+img_burger.jpg		alt：空
+
+当店で毎日焼き上げる自家製のパンを使ったオリジナルハンバーガー。厳選した国産和牛肉を 炭火で焼き上げます。
+
+images/btn_more.png		alt：詳細を見る
+
+
+
+
+トマトスパゲッティー
+
+img_pasta.jpg		alt：空
+
+当店オリジナルのチキンソテートマトソースつき。新鮮な素材を使用した手作りの味が自慢です。是非一度御賞味下さい。
+
+images/btn_more.png		alt：詳細を見る
+
+
+
+
+■information見出し画像
+ttl_information.gif	alt：INFORMATION
+
+
+
+■informationテキスト
+
+新店舗のご案内
+
+2014.05.18
+
+東京の新しいランドマーク、東京スカイツリータウン内に2店舗オープン。東京スカイツリーをモチーフにした数量限定、店舗限定の記念タンブラーとマグカップを販売スタート
+
+限定スイーツ販売致します
+
+2014.04.30
+
+ロンドン発の大人気スイーツ店「HOPE AND GREENWOOD」。元イラストレーターのミス・ホープがデザインするキュートなパッケージや手作りチョコレートが評判となり、現在はコベントガーデン店のほか、ハロッズ、セルフリッジといった有名デパートでも販売中。
+
+メニューが変わりました
+
+2014.04.15
+
+季節限定スペシャルメニューで、暑い夏にぴったりの「サラダタコス」と「マンゴーヨーグルト」がスタートします。豆と米を発酵させたヘルシー生地で、食欲がないときや元気を出したいときにおすすめ！是非お試しください！
+
+
+
+■access見出し画像
+ttl_access.png		alt：ACCESS
+
+
+■accessテキスト
+
+〒101-0062　東京都千代田区神田駿河台2-3 DH2001Bldg.
+
+0120-386-810
+
+11:00～22:00
+
+■地図画像
+img_map.jpg		alt：HOLLYWOOD CAFEの地図
+
+
+■おすすめ情報見出し画像
+ttl_info.png		alt：おすすめ情報
+
+
+■おすすめ情報バナー画像
+bnr_01.jpg		alt：Adobe Creative Cloud月額5.000円から使い放題
+
+bnr_02.jpg		alt：デジタルハリウッド本科受付中
+
+
+
+■ページトップ画像
+btn_pagetop.png		alt：PAGETOP
+
+
+■コピーライトテキスト
+Copyright HOLLYWOOD CAFE AllRight Reserved.
