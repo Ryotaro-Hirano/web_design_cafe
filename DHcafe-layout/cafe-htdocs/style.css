@@ -28,16 +28,16 @@ list-style: none;
 
 /*フロート解除用のハック*/
 /*clearfixの設定*/
-.clearfix:after{  
-visibility:hidden;/*見えなくする*/ 
+.clearfix:after{
+visibility:hidden;/*見えなくする*/
 height:0;/*見えなくする*/
 display: block;/*block要素にする*/
-font-size: 0;  
-content: " ";  
-clear: both;  
+font-size: 0;
+content: " ";
+clear: both;
 
-}  
-* html .clearfix             { zoom: 1; } /* IE6 */  
+}
+* html .clearfix             { zoom: 1; } /* IE6 */
 *:first-child+html .clearfix { zoom: 1; } /* IE7 */
 
 
@@ -72,11 +72,53 @@ text-decoration:none;
 /*==========================================
 ヘッダーエリアの設定
 ============================================*/
+#header {
+  background: #fff;
+  width: 100%;
+  border-bottom: 1px solid #f3f2f2;
+  font-size: 1.1em;
+}
 
+#header_top {
+  width: 940px;
+  margin: 0 auto;
+  position: relative;
+}
 
+#header_top h1 {
+  padding-top: 25px;
+}
 
+#header_top p {
+  margin: 0 0 20px 60px;
+  color: #999;
+}
 
+ul#subnav {
+  text-align: right;
+  position: absolute;
+  top: 30px;
+  right: 10px;
+}
 
+ul#subnav li {
+  float: left;
+  padding-right: 30px; 
+}
+
+ul#subnav a.sitemap {
+  display: block;
+  background: url(images/sitemap.gif) no-repeat 0 0;
+  min-height: 11px;
+  padding-left: 20px;
+}
+
+ul#subnav a.rss {
+  display: block;
+  background: url(images/rss.gif) no-repeat 0 0;
+  min-height: 11px;
+  padding-left: 18px;
+}
 /*==========================================
 グローバルナビゲーション・グラフィックの設定
 ============================================*/
@@ -162,6 +204,3 @@ Informationの設定
 /*==========================================
 フッターエリア
 ===============*/
-
-
-
