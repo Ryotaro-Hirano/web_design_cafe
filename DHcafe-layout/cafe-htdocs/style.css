@@ -103,7 +103,7 @@ ul#subnav {
 
 ul#subnav li {
   float: left;
-  padding-right: 30px; 
+  padding-right: 30px;
 }
 
 ul#subnav a.sitemap {
@@ -122,12 +122,49 @@ ul#subnav a.rss {
 /*==========================================
 グローバルナビゲーション・グラフィックの設定
 ============================================*/
+#globalnav {
+  width: 100%;
+  min-height: 48px;
+  background: url(./images/nav_bg.gif) repeat-x;
+}
 
+#globalnav ul {
+  width: 980px;
+  margin: 0 auto;
+  overflow: hidden;
+}
 
+#globalnav li {
+  float: left;
+  background: url(./images/line.gif) no-repeat left center;
+  height: 48px;
+}
 
+#globalnav li.first {
+  background-image: none;
+}
 
+#globalnav li a {
+  color: #fff;
+  display: block;
+  width: 146px;
+  height: 48px;
+  padding: 0 5px;
+  text-align: center;
+  font-size: 1.4em;
+  text-decoration: none;
+  line-height: 48px;
+}
 
+#globalnav li a:hover {
+  background: #fb946b;
+}
 
+#header p img {
+  display: block;
+  width: 940px;
+  margin-left: 0 auto;
+}
 /*==========================================
 コンテンツエリア設定
 ============================================*/
